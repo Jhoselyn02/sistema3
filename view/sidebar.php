@@ -26,7 +26,7 @@
 		<!------------------------------------------------>
 
       <div class="pull-left info">
-        <p><?php echo $info_Persona['primer_nombre'].' '.$info_Persona['apellido_paterno']; ?></p>
+        <p><?php echo $info_Universidad['primer_nombre'].' '.$info_Universidad['apellido_paterno']; ?></p>
         <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
       </div>
     </div>
@@ -64,7 +64,7 @@
           </li>
 
           <li>
-            <li><a href="index.php?c=Universidad"><i class="fa fa-circle-o" aria-hidden="true"></i> Universidades</a></li>
+            <li><a href="index.php?c=Universidad"><i class="fa fa-circle-o" aria-hidden="true"></i> Universidad</a></li>
           </li>
 
         </ul>
